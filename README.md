@@ -1,5 +1,6 @@
 # 인공지능 팀 프로젝트
 ![저화질](https://github.com/mohyeokjin/MLProject/assets/143565474/2105e354-f7c4-4fb7-a401-c60abfe49ebf)
+
 ▶ 진행 기간
 
  1) 개발 기간 : 2023-12-26(TUE) ~ 2024-01-16(WED)
