@@ -1,0 +1,6 @@
+train: C:/Users/MHJ/Desktop/github/MachineLearningProject/PJT_MCL/train
+val: C:/Users/MHJ/Desktop/github/MachineLearningProject/PJT_MCL/valid
+test: C:/Users/MHJ/Desktop/github/MachineLearningProject/PJT_MCL/test
+nc: 1  # 클래스의 개수
+names: ['bot']  # 클래스의 이름
+img_size: 300  # Swin Transformer에 적합한 입력 이미지 크기
